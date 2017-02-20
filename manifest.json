@@ -1,8 +1,9 @@
 {
-  "name": "tota11y chrome extension",
-  "version": "0.8.0",
+  "name": "Tota11y Library Chrome Extension",
+  "short_name": "Tota11y Chrome Extension",
+  "version": "0.8.2",
   "manifest_version": 2,
-  "description": "Use tota11y everywhere without making it a project dependency.",
+  "description": "Use Tota11y everywhere to maximize accessibility.",
   "icons": {
     "128": "src/img/logo.png"
   },
