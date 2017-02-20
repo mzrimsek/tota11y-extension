@@ -1,7 +1,10 @@
 # tota11y-extension
-
 Tota11y is a great toolkit for doing some easy fixes to make your webpages more accessible.
 
-This chrome extension will inject the toolkit into your webpage, allowing you to make changes without having to download the library locally.
+## Features
+* Injects Tota11y tookit into page
+* Allows for toggling toolbar on/off by clicking extension logo (default to off)
 
-Tota11y toolbar visibility can be toggled by clicking on the Chrome Toolbar extension logo.
+-----
+
+This extension uses a [forked version of tota11y](https://github.com/mzrimsek/tota11y) which I will be maintaining and adding to.
