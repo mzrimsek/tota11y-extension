@@ -1,7 +1,7 @@
 {
   "name": "Tota11y Toolkit Chrome Extension",
   "short_name": "Tota11y Chrome Extension",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "manifest_version": 2,
   "description": "Use Tota11y everywhere to maximize accessibility.",
   "icons": {
